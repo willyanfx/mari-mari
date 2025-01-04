@@ -1,0 +1,30 @@
+{
+  "id": "001",
+  "title": "Algebra",
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the value of x in the equation 2x + 5 = 13?",
+      "options": [
+        { "id": "12323", "answer": "3" },
+        { "id": "12324", "answer": "4" },
+        { "id": "12325", "answer": "5" },
+        { "id": "12326", "answer": "6" }
+      ],
+      "rightAnswer": "12324",
+      "explain": "To solve for x, subtract 5 from both sides: 2x = 8. Then divide both sides by 2: x = 4."
+    },
+    {
+      "id": "2",
+      "question": "What is the square root of 64?",
+      "options": [
+        { "id": "12333", "answer": "6" },
+        { "id": "12334", "answer": "7" },
+        { "id": "12338", "answer": "8" },
+        { "id": "12339", "answer": "9" }
+      ],
+      "rightAnswer": "12338",
+      "explain": "The square root of 64 is 8 because 8 * 8 = 64."
+    }
+  ]
+}
