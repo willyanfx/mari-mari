@@ -3,9 +3,10 @@
   "private": true,
   "homepage": "http://willyanfx.github.io/mari-mari",
   "scripts": {
-    "build": "cross-env react-router build",
+    "build:2": "cross-env NODE_ENV=production react-router build",
+    "build": "vite build",
     "dev": "react-router dev",
-    "start": "cross-env react-router-serve ./build/server/index.js",
+    "start": "cross-env NODE_ENV=production react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc"
   },
   "dependencies": {
