@@ -1,0 +1,27 @@
+---
+import type { APIRoute, GetStaticPaths } from "astro";
+import Layout from '../../layouts/Layout.astro';
+
+// export const GET: APIRoute = ({params, request}) => {
+//     const id = params.examId;
+
+//     return new Response(JSON.stringify({
+//         id
+//     }))
+// }
+
+// export const getStaticPaths = (() => {
+
+//     return [];
+    
+// }) satisfies GetStaticPaths;
+
+// const { path } = Astro.params;
+
+const {  id } = Astro.params;
+---
+
+
+<Layout>
+	Exams {id}
+</Layout>
