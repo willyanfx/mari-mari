@@ -7,7 +7,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: 'https://willyanfx.github.io/mari-mari/',
+  base: '/mari-mari/',
   plugins: [vue(), vueJsx(), vueDevTools()],
   resolve: {
     alias: {
