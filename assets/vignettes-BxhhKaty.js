@@ -1,0 +1,1 @@
+const t=[{id:1,title:"Patient Case 1",description:"A 45-year-old patient presents with...",questions:[{id:1,text:"What is the most likely diagnosis?",options:["Option A","Option B","Option C","Option D"],correctAnswer:2},{id:2,text:"What is the next best step in management?",options:["Option A","Option B","Option C","Option D"],correctAnswer:0}]}],e={vignettes:t};export{e as v};
