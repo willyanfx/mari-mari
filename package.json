@@ -1,33 +1,33 @@
 {
-  "name": "quiz-mary",
+  "name": "mari-quiz",
+  "version": "0.0.0",
   "private": true,
-  "homepage": "http://willyanfx.github.io/mari-mari",
+  "type": "module",
   "scripts": {
-    "build:2": "cross-env NODE_ENV=production react-router build",
+    "dev": "vite",
     "build": "vite build",
-    "dev": "react-router dev",
-    "start": "cross-env NODE_ENV=production react-router-serve ./build/server/index.js",
-    "typecheck": "react-router typegen && tsc"
+    "preview": "vite preview",
+    "lint:oxlint": "oxlint . --fix -D correctness --ignore-path .gitignore",
+    "lint:eslint": "eslint . --fix",
+    "lint": "run-s lint:*",
+    "format": "prettier --write src/"
   },
   "dependencies": {
-    "@react-router/node": "^7.1.1",
-    "@react-router/serve": "^7.1.1",
-    "isbot": "^5.1.19",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-router": "^7.1.1"
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
   },
   "devDependencies": {
-    "@react-router/dev": "^7.1.1",
-    "@types/node": "^20.17.11",
-    "@types/react": "^19.0.2",
-    "@types/react-dom": "^19.0.2",
-    "autoprefixer": "^10.4.20",
-    "cross-env": "^7.0.3",
-    "postcss": "^8.4.49",
-    "tailwindcss": "^3.4.17",
-    "typescript": "^5.7.2",
-    "vite": "^5.4.11",
-    "vite-tsconfig-paths": "^5.1.4"
+    "@eslint/js": "^9.14.0",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "@vitejs/plugin-vue-jsx": "^4.1.1",
+    "@vue/eslint-config-prettier": "^10.1.0",
+    "eslint": "^9.14.0",
+    "eslint-plugin-oxlint": "^0.11.0",
+    "eslint-plugin-vue": "^9.30.0",
+    "npm-run-all2": "^7.0.1",
+    "oxlint": "^0.11.0",
+    "prettier": "^3.3.3",
+    "vite": "^6.0.5",
+    "vite-plugin-vue-devtools": "^7.6.8"
   }
 }
