@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -13,20 +12,19 @@ const router = createRouter({
       path: '/exams/:examId',
       name: 'exam-detail',
       component: () => import('../views/ExamView.vue'),
-      props: true
+      props: true,
     },
     {
       path: '/exams/:examId/vignette/:vignetteId',
       name: 'vignette-detail',
-     component: () => import('../views/VignetteView.vue'),
-      props: true
+      component: () => import('../views/VignetteView.vue'),
+      props: true,
     },
     {
       path: '/',
-      redirect: '/exams'
-    }
-  ]
-
+      redirect: '/exams',
+    },
+  ],
 })
 
 export default router
