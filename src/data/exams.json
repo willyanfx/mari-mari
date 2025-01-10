@@ -1,10 +1,14 @@
 {
-  "1": {
-    "id": "1",
-    "title": "Exam 1",
-    "vignettes": [
-      { "id": "111", "title": "test", "length": 2 },
-      { "id": "112", "title": "test 2", "length": 2 }
-    ]
-  }
+  "exams": [
+    {
+      "id": 1,
+      "title": "Medical Exam 1",
+      "vignettes": [1, 2, 3]
+    },
+    {
+      "id": 2,
+      "title": "Medical Exam 2",
+      "vignettes": [4, 5, 6]
+    }
+  ]
 }
