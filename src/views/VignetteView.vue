@@ -1,6 +1,6 @@
 <template>
   <h1>{{ vignette?.title }}</h1>
-   <p>{{ vignette?.description }}</p>
+   <p>{{ vignette?.vignette }}</p>
    <div v-if="!showResults && currentQuestion" class="question">
      <h2>Question {{ currentQuestionIndex + 1 }}</h2>
      <p>{{ currentQuestion.text }}</p>
