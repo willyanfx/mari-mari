@@ -7,7 +7,7 @@
       "questions": [
         {
           "id": 1,
-          "text": "Which of the following increases the risk of having a myocardial infarction?\n i. Time of day - early morning\n ii, Seasonal pattern - around Christmas time\n iii. After an upper respiratory tract illness\n iv. After dental appointments",
+          "text": "Which of the following increases the risk of having a myocardial infarction?\n i. Time of day - early morning\n ii. Seasonal pattern - around Christmas time\n iii. After an upper respiratory tract illness\n iv. After dental appointments",
           "options": {
             "A": "i, ii",
             "B": "i, iii, iv",
@@ -1526,6 +1526,1373 @@
             "D": "Continue to monitor the patient's behaviour during the physiotherapy sessions. Document the findings."
           },
           "correctAnswer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 111114,
+      "title": "Vignette for questions 111-114",
+      "vignette": "A 65-year-old patient suffered a cerebrovascular accident 3 months ago. The stroke was a result of hypertension causing hemorrhage of the right middle cerebral artery. The patient required a craniotomy to access the brain for intracranial surgery to stop the bleeding. Their post-op infection and pneumonia resulted in a delay in initiating rehabilitation. As a result of the stroke, the patient has unilateral neglect as well as a poor attention span and marked cognitive changes. The patient requires: - 1 person minimum assistance from supine to sit and - Standby assistance to sit at the edge of the bed - 1 person moderate assistance to transfer to/from their wheelchair using a low pivot transfer.",
+      "questions": [
+        {
+          "id": 111,
+          "text": "The physiotherapist notices that the patient often drops their involved upper extremity off the wheelchair armrest. How should the physiotherapist proceed in managing this issue?",
+          "options": {
+            "A": "Educate the nursing staff and family on how to reposition the upper limb if it falls off the wheelchair armrest.",
+            "B": "Liaise with the occupational therapist about options for a new armrest for the wheelchair.",
+            "C": "Teach the patient to keep their arm closer to their body to prevent it from falling off the wheelchair.",
+            "D": "Incorporate sensory stimulation for the upper limb into treatment sessions."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 112,
+          "text": "The patient frequently soils herself during physiotherapy sessions. Previous medical history shows no issues with incontinence. Which type of incontinence is the patient most likely dealing with?",
+          "options": {
+            "A": "Functional",
+            "B": "Overflow",
+            "C": "Stress",
+            "D": "Urge"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 113,
+          "text": "The patient refuses to wear a pad for bladder leakage protection causing the physiotherapist to lose valuable rehabilitation time. If the patient becomes incontinent during the session, the physiotherapist must return them to their room to be changed. How should the physiotherapist proceed?",
+          "options": {
+            "A": "Bring the issue up in rounds.",
+            "B": "Liaise with nursing and time physiotherapy sessions after the patient's morning bathroom routine.",
+            "C": "Refuse physiotherapy services unless the patient wears incontinence pads.",
+            "D": "Provide a full physiotherapy session but wear gloves and a gown in case the patient is incontinent during the treatment."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 114,
+          "text": "During a rehabilitation session, the patient complains of pain when the physiotherapist moves their left leg. Upon examination, the calf appears red and the entire leg and foot appear swollen. The patient complains of tingling and numbness throughout the lower leg. The physiotherapist suspects a possible DVT in the patient's left lower limb. Which of the following sign or symptom is the most concerning?",
+          "options": {
+            "A": "Leg and foot swelling",
+            "B": "Calf redness",
+            "C": "Lower limb pain",
+            "D": "Paresthesias"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 115118,
+      "title": "Vignette for questions 115-118",
+      "vignette": "A 68-year-old patient has end-stage heart failure and is waiting for a heart transplant. Due to their illness, they have developed pulmonary edema and have been admitted to the hospital while they wait for surgery. They are being closely monitored in the cardiac care unit. The patient can mobilize independently to and from the bathroom without a gait aid but, when doing so, becomes breathless and fatigued. Recently, they had a fall while mobilizing due to their dizziness. The patient has been refusing to eat due to a lack of appetite",
+      "questions": [
+        {
+          "id": 115,
+          "text": "What recommendation should the physiotherapist make to increase the patient's safety while mobilizing?",
+          "options": {
+            "A": "Prescribe the patient a walker.",
+            "B": "Encourage the patient to eat because dizziness and fatigue are related to a lack of nutrition.",
+            "C": "Discourage the patient from mobilizing as they are at a high risk of a fall.",
+            "D": "Continue to encourage the patient to mobilize but place a chair outside the bathroom in case they become dizzy and needs to sit."
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 116,
+          "text": "What physiotherapy intervention would be most appropriate for this patient while they await surgery?",
+          "options": {
+            "A": "Ambulation around the unit with frequent rest breaks",
+            "B": "Ankle pumping",
+            "C": "Postural drainage with percussions and vibrations",
+            "D": "Frequent, independent diaphragmatic breathing"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 117,
+          "text": "During a recent session, the physiotherapist overhears the patient talking to family about how they will not be taking anti-rejection drugs after their transplant as it goes against their belief system. The physiotherapist is concerned because without life long use of these medications, the surgery will be unsuccessful. How should the physiotherapist proceed?",
+          "options": {
+            "A": "Refuse to treat the patient until they talk to their cardiac specialist and discuss treatment options.",
+            "B": "Chart the patient's comments and refer them back to their specialist. It is outside the physiotherapist's scope of practice to discuss any further details with the patient.",
+            "C": "Discuss these comments with the patient and inform the cardiac specialist.",
+            "D": "Chart the patient's comments and advise them that they will have to take the medication."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 118,
+          "text": "The patient successfully received a heart transplant 6 weeks ago. They were discharged home and have been instructed by their cardiac specialist to start a walking program. Which of the following should the physiotherapist recommend the patient use to maintain exercise within a safe intensity?",
+          "options": {
+            "A": "Rating of perceived exertion",
+            "B": "Heart rate",
+            "C": "Blood pressure",
+            "D": "Heart rate and an at home pulse oximeter"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 119122,
+      "title": "Vignette for questions 119-122",
+      "vignette": "A 21-year-old patient sustained a hamstring injury 2 days ago during a gymnastics competition. They arrive at their assessment ambulating with axillary crutches. After completing a thorough assessment, the physiotherapist diagnoses the patient with a second degree hamstring strain.",
+      "questions": [
+        {
+          "id": 119,
+          "text": "Based on the patient's injury, which of the following objective findings would be noted on assessment?",
+          "options": {
+            "A": "Positive straight leg raise test",
+            "B": "Ecchymosis",
+            "C": "Pain that started when sprinting to the vault",
+            "D": "Deformity"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 120,
+          "text": "The patient is very upset by the injury and the interruption it will pose in her ability to participate in gymnastics. She asks the physiotherapist about the general timeline for her recovery. How should the physiotherapist respond?",
+          "options": {
+            "A": "Timeline for return to sport will be approximately 1-3 weeks.",
+            "B": "Timeline for return to sport will be approximately 3-6 weeks.",
+            "C": "Timeline for return to sport will be approximately 6-12 weeks.",
+            "D": "The physiotherapist should advise the patient that they cannot provide a general timeline as every patient's recovery will be different and depends on a variety of factors."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 121,
+          "text": "Which of the following exercises would be appropriate to include in the patient's initial home exercise program? i. Modified plank on knees ii. Single leg standing balance iii. Supine active assisted heel slides iv. Supine bridge v. Seated static hamstring stretch",
+          "options": {
+            "A": "iii, iv. v",
+            "B": "i, ii, iii, iv",
+            "C": "i, ii, iv, v",
+            "D": "i. ii"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 122,
+          "text": "The physiotherapist would like to start the patient on a program with the physiotherapy assistant (PTA). The physiotherapist is reviewing the exercise program with the PTA but is unable to finish reviewing all exercises during the session with the PTA. How should the physiotherapist proceed?",
+          "options": {
+            "A": "Provide the PTA with a handout that includes all exercises and allow the PTA to carry out the full exercise program.",
+            "B": "Advise the PTA to only perform the exercises that were reviewed together.",
+            "C": "Use their professional judgment regarding the PTA's experience to determine if the PTA can carry out all of the exercises in the program.",
+            "D": "Schedule a follow-up session with the patient and PTA to review the remaining exercises together."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 123126,
+      "title": "Vignette for questions 123-126",
+      "vignette": "A physiotherapist is treating a 32-year-old patient who has been complaining of upper back pain while sitting at her desk. Her pain is worse at the end of the day. She denies any altered sensation such as numbness or tingling. She is self-employed and works from home but has been working longer hours and has increased her work schedule from 5 to 6 days a week because of financial difficulties. The physiotherapist believes the patient's back pain is related to prolonged sitting and poor ergonomics.",
+      "questions": [
+        {
+          "id": 123,
+          "text": "Which of the following would be the most effective education that the physiotherapist can provide to improve the patient's back pain?",
+          "options": {
+            "A": "Educate the patient to reduce their work hours.",
+            "B": "Discuss options to help the patient move around throughout their working shift with the goal of decreasing back pain and allowing them to work long hours.",
+            "C": "Encourage the patient to start personal training to help them begin an exercise program to address their back pain.",
+            "D": "Educate the patient on the use of ice and heat throughout the day to minimize pain."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 124,
+          "text": "The physiotherapist assesses the patient's scapular motion. Which muscles combine in a force-couple to produce upward rotation of the scapula?",
+          "options": {
+            "A": "Upper fibers trapezius, lower fibers trapezius, serratus anterior",
+            "B": "Upper fibers trapezius, middle fiber trapezius, serratus anterior",
+            "C": "Levator scapulae, middle fibers trapezius, serratus anterior",
+            "D": "Levator scapulae, lower fibers trapezius, serratus anterior"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 125,
+          "text": "The physiotherapist wants to improve the patient's sitting posture. Which of the following would be an appropriate ergonomic change to the patient's desk setup?",
+          "options": {
+            "A": "Adjust the top of the screen so it is just below eye level and ½ arms distance length away.",
+            "B": "Adjust the backrest so it is in an erect position or a 5-degree tilt forward.",
+            "C": "Adjust the wrist position on the keyboard to sit in slight flexion.",
+            "D": "Adjust the chair height so the knees are at or below hip level."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 126,
+          "text": "The physiotherapist would like to prescribe an exercise to improve the patient's grade 2 lower fiber trapezius (LFT) strength. Which of the following exercises would be best to prescribe?",
+          "options": {
+            "A": "Seated scapular retraction using a theraband.",
+            "B": "Elevation of the arm positioned overhead in the prone lying position ('Y' exercise).",
+            "C": "Scapular setting with isometric holds in sitting.",
+            "D": "Raise the chest off the floor in a prone lying position with arms down along the patient's sides and actively pull the scapula downwards and hold for several seconds (modified prone cobra)."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 127130,
+      "title": "Vignette for questions 127-130",
+      "vignette": "A physiotherapist is treating a 57-year-old production line worker who has a history of left shoulder pain. His pain has been present for over 5 years, but has recently exacerbated when he fell down the stairs at work. He now complains of intense, lightening like pain radiating from the lateral aspect of his shoulder to his lateral forearm and hand.",
+      "questions": [
+        {
+          "id": 127,
+          "text": "Which of the following special tests should the physiotherapist include in their objective assessment?",
+          "options": {
+            "A": "Spurling's compression test",
+            "B": "Adson test",
+            "C": "Neer's test",
+            "D": "Speed's test"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 128,
+          "text": "The physiotherapist determines the patient has a combination of cervical nerve root compression as well as supraspinatus tendinopathy. Which nerve root is most likely impinged?",
+          "options": {
+            "A": "C4",
+            "B": "C5",
+            "C": "C6",
+            "D": "C7"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 129,
+          "text": "How should the physiotherapist prioritize treating this patient's co-existing conditions?",
+          "options": {
+            "A": "Prioritize treatment for the nerve impingement and, once pain has settled, begin treatment for the tendinopathy.",
+            "B": "Prioritize treatment for the nerve impingement while simultaneously providing education for tendinopathy management.",
+            "C": "Prioritize treatment for the tendinopathy as it is a longer-standing issue.",
+            "D": "Avoid prioritizing either condition and spend equal time treating both conditions."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 130,
+          "text": "The physiotherapist would like to use cervical traction in their treatment plan. Which of the following is a contraindication to cervical traction?",
+          "options": {
+            "A": "Osteopenia",
+            "B": "Rheumatoid arthritis",
+            "C": "Cervical stenosis",
+            "D": "Cervical muscle spasm"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 131135,
+      "title": "Vignette for questions 131-135",
+      "vignette": "A physiotherapist is working with a 34-year-old patient who recently started to experience unilateral jaw pain. The patient reports clicking with chewing and when opening and closing their mouth. They deny ever experiencing jaw locking. Upon postural observation, the patient is sitting with a forward head posture. The patient's jaw laterally deviates towards the right with mouth opening and, upon palpation, the physiotherapist notes a click.",
+      "questions": [
+        {
+          "id": 131,
+          "text": "Which of the following is the proper resting position of the tongue, mouth and jaw?",
+          "options": {
+            "A": "Tongue up, teeth apart, lips closed",
+            "B": "Tongue down, teeth together, lips slightly open",
+            "C": "Tongue up, teeth together, lips slightly open",
+            "D": "Tongue down, teeth apart, lips closed"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 132,
+          "text": "Based on the patients presentation, which of the following is the most probable physiotherapy diagnosis?",
+          "options": {
+            "A": "Anterior disc displacement with reduction",
+            "B": "Myofasical pain",
+            "C": "Anterior disc displacement without reduction",
+            "D": "Degenerative joint disease"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 133,
+          "text": "The patient mentions that eating is very painful and is feeling frustrated by the pain. How should the physiotherapist proceed?",
+          "options": {
+            "A": "Avoid educating the patient about nutrition and, instead, provide them with pain management strategies such as deep breathing and relaxation techniques.",
+            "B": "Advise the patient that providing insight into nutrition is beyond their scope.",
+            "C": "Educate the patient to try to eat soft foods and avoid food that requires excessive chewing and firm biting such as gum or steak.",
+            "D": "Refer the patient to a dietitian."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 134,
+          "text": "The physiotherapist measures the patient's mouth opening. Which of the following indicates normal mouth opening?",
+          "options": {
+            "A": "Mouth opening of 25-45mm",
+            "B": "Mouth opening of 2 fingers width",
+            "C": "Mouth opening of 45-65mm",
+            "D": "Mouth opening of 3 fingers width"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 135,
+          "text": "The patient has made very few improvements during their physiotherapy sessions. The physiotherapist feels that a referral to the patient's dentist may be beneficial. In which section of the SOAP note should the physiotherapist include their thoughts about the patient's need for a referral?",
+          "options": {
+            "A": "Subjective",
+            "B": "Objective",
+            "C": "Assessment",
+            "D": "Plan"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 136139,
+      "title": "Vignette for questions 136-139",
+      "vignette": "A 59-year-old patient has been referred to physiotherapy by his family physician for balance training. The patient was diagnosed with diabetes 10 years ago and has failed to monitor his glucose levels and now suffers from severe diabetic neuropathy. In addition to type Il diabetes, the patient has hypercholesterolemia, hypertension, and is overweight. They arrive at the session breathless after ambulating 400 meters from the parking lot to the clinic entrance. The patient is independently ambulating without a gait aid but appears unsteady at times when moving around the clinic. They deny any falls. Upon inspection, their right heel has redness and mild skin breakdown.",
+      "questions": [
+        {
+          "id": 136,
+          "text": "Based on the typical pattern of peripheral neuropathy in the diabetic population, which of the following findings might be present during the assessment? i. Loss of light touch and temperature throughout the feet ii. Loss of light touch and temperature throughout the hands iii. Decreased ankle dorsiflexion ROM iv. No difference in balance testing eyes open vs eyes closed v. Drop foot",
+          "options": {
+            "A": "i, v",
+            "B": "i, ii, v",
+            "C": "i, ii, iii, v",
+            "D": "i, ii, iii, iv, v"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 137,
+          "text": "Which of the following outcome measures should the physiotherapist use to monitor the patient's cardiovascular endurance?",
+          "options": {
+            "A": "Timed up and go (TUG)",
+            "B": "6-minute walk test",
+            "C": "10-meter walk test",
+            "D": "Dynamic gait index"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 138,
+          "text": "After completing the initial assessment, the physiotherapist has limited time to provide treatment. Which of the following treatments would be most important for the physiotherapist to provide during the initial session?",
+          "options": {
+            "A": "Prescribe a gait aid and review the proper gait pattern.",
+            "B": "Teach balance exercises for home practice.",
+            "C": "Initiate a cardiovascular conditioning program and use the modified Borg scale to monitor exertion.",
+            "D": "Educate the patient on foot care principles."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 139,
+          "text": "The patient is complaining of foot discomfort as a result of his peripheral neuropathy. Which of the following treatments should the physiotherapist use to assist with pain management?",
+          "options": {
+            "A": "Promote exercises, such as walking",
+            "B": "Local TENS using an acupuncture-like setting",
+            "C": "Local TENS using a conventional setting",
+            "D": "Gentle heat"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 140143,
+      "title": "Vignette for questions 140-143",
+      "vignette": "A 79-year-old patient was diagnosed with Parkinson's 10 years ago. Over the past 10 years, the patient has noted an overall decline in his walking and has had several falls due to tripping on his right foot. He lives with his supportive wife and is dependent on his wife to assist with most activities of daily living. Upon assessment, the physiotherapist notes a mild thoracic kyphosis with head forward posture and a resting tremor in the right hand. The patient ambulates with a 2 wheeled walker and, during the gait assessment, appears cautious while walking. He presents with a narrow base of support, small shuffle steps bilaterally and stiffness throughout his trunk.",
+      "questions": [
+        {
+          "id": 140,
+          "text": "In addition to the posture and gait assessment, which of the following should the physiotherapist prioritize during the initial assessment?",
+          "options": {
+            "A": "Assess passive range of motion",
+            "B": "Assess additional functional movements such as supine-to-sit and sit-to-stand",
+            "C": "Perform manual muscle testing",
+            "D": "Assess spasticity"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 141,
+          "text": "Which of the following non-motor symptoms should the physiotherapist expect to find that are consistent with a diagnosis of Parkinson's disease?",
+          "options": {
+            "A": "Fatigue",
+            "B": "Akinesia",
+            "C": "Bradykinesia",
+            "D": "Rigidity"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 142,
+          "text": "Which of the following exercises would be most effective to improve this patient's ambulation pattern?",
+          "options": {
+            "A": "Standing pectoralis major stretch",
+            "B": "Seated ankle dorsiflexion strengthening using a TheraBand",
+            "C": "Teach the patient how to use walking poles",
+            "D": "Seated marching with big arm and leg motions"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 143,
+          "text": "Which of the following is the most appropriate outcome measure to use with this patient?",
+          "options": {
+            "A": "Expanded Disability Status Scale",
+            "B": "Hoehn and Yahr",
+            "C": "Fugl-Meyer",
+            "D": "Modified Ashworth Scale"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 144146,
+      "title": "Vignette for questions 144-146",
+      "vignette": "A 66-year-old patient suffered a cerebrovascular accident 3 days ago as a result of an ischemic blockage to their left middle cerebral artery. After a full examination in the emergency, the patient was transferred to the neurological ward of the hospital. The patient had been too fatigued to actively participate in physiotherapy until today. The patient demonstrates mild weakness and has some communication difficulties.",
+      "questions": [
+        {
+          "id": 144,
+          "text": "Which of the following deficits would most likely be present based on the patient's diagnosis?",
+          "options": {
+            "A": "Aphasia and right upper extremity equally affected as right lower extremity",
+            "B": "Neglect and right upper extremity more affected than right lower extremity",
+            "C": "Aphasia and right lower extremity more affected than right upper extremity",
+            "D": "Difficulty with ADLs and right upper extremity more affected than right lower extremity"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 145,
+          "text": "Which of the following methods of education and instruction is most effective when communicating with this patient?",
+          "options": {
+            "A": "Ask the patient open-ended questions and avoid gestures and tactile cues.",
+            "B": "Control the environment and limit distractions when educating the patient.",
+            "C": "Limit information provided until the patient has recovered from the acute stages of the stroke.",
+            "D": "Speak to the patient in a slow, higher toned voice to establish effective communication."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 146,
+          "text": "During the physiotherapy session, the patient becomes agitated and begins to thrash in bed and yell out. What should be the physiotherapists next action?",
+          "options": {
+            "A": "Stay calm, reassure the patient, and carry out the session as planned.",
+            "B": "Press the call button to get immediate nursing assistance.",
+            "C": "Stop the clinical interaction and give the patient a moment.",
+            "D": "Leave the room and advise the team of the patient's agitation."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 147150,
+      "title": "Vignette for questions 147-150",
+      "vignette": "A physiotherapist is assessing a 41-year-old patient who injured their back 3 days ago after picking up several heavy boxes while cleaning their garage. The patient presents with low back pain, right foot drop and radicular pain into the right leg. Upon assessment, lumbar extension causes mild low back pain and lumbar flexion increases the patient's back and leg pain. Myotomes and dermatomes are positive.",
+      "questions": [
+        {
+          "id": 147,
+          "text": "Where will the physiotherapist note abnormal sensation when assessing the patient's dermatomes?",
+          "options": {
+            "A": "Anterolateral leg and dorsum of the foot",
+            "B": "Anterior thigh and medial aspect of the knee",
+            "C": "Lateral malleolus and posterior thigh",
+            "D": "Medial leg and medial malleolus"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 148,
+          "text": "Which of the following would not be an appropriate treatment goal for this patient?",
+          "options": {
+            "A": "Lift a 10kg box to shoulder height with a pain rating of 2 or less on the visual analogue scale within 4 months.",
+            "B": "Decrease pain on the visual analogue scale by 2 points within 2 weeks.",
+            "C": "Improve their quality of sleep within 2 months of treatment.",
+            "D": "Increase their right tibialis anterior to a grade 4 strength within 3 months."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 149,
+          "text": "The physiotherapist decides to incorporate transcutaneous electrical nerve stimulation (TENS) into the program for pain management. In which of the following situations would a physiotherapist be safe to proceed with the use of TENS?",
+          "options": {
+            "A": "Over metal implants",
+            "B": "Areas of impaired sensation",
+            "C": "Over areas of damaged or at-risk skin",
+            "D": "To the low back or abdomen of a pregnant woman in their first trimester"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 150,
+          "text": "What should the physiotherapist include as part of the patient's home exercise program?",
+          "options": {
+            "A": "Gentle supine knees to chest and reclined spinal twist",
+            "B": "Bridge and prone lying",
+            "C": "Prone lying and education to avoid prolonged sitting",
+            "D": "Education to avoid valsalva maneuver and reclined spinal twist"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 140143,
+      "title": "Vignette for questions 140-143",
+      "vignette": "A 79-year-old patient was diagnosed with Parkinson's 10 years ago. Over the past 10 years, the patient has noted an overall decline in his walking and has had several falls due to tripping on his right foot. He lives with his supportive wife and is dependent on his wife to assist with most activities of daily living. Upon assessment, the physiotherapist notes a mild thoracic kyphosis with head forward posture and a resting tremor in the right hand. The patient ambulates with a 2 wheeled walker and, during the gait assessment, appears cautious while walking. He presents with a narrow base of support, small shuffle steps bilaterally and stiffness throughout his trunk.",
+      "questions": [
+        {
+          "id": 140,
+          "text": "In addition to the posture and gait assessment, which of the following should the physiotherapist prioritize during the initial assessment?",
+          "options": {
+            "A": "Assess passive range of motion",
+            "B": "Assess additional functional movements such as supine-to-sit and sit-to-stand",
+            "C": "Perform manual muscle testing",
+            "D": "Assess spasticity"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 141,
+          "text": "Which of the following non-motor symptoms should the physiotherapist expect to find that are consistent with a diagnosis of Parkinson's disease?",
+          "options": {
+            "A": "Fatigue",
+            "B": "Akinesia",
+            "C": "Bradykinesia",
+            "D": "Rigidity"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 142,
+          "text": "Which of the following exercises would be most effective to improve this patient's ambulation pattern?",
+          "options": {
+            "A": "Standing pectoralis major stretch",
+            "B": "Seated ankle dorsiflexion strengthening using a TheraBand",
+            "C": "Teach the patient how to use walking poles",
+            "D": "Seated marching with big arm and leg motions"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 143,
+          "text": "Which of the following is the most appropriate outcome measure to use with this patient?",
+          "options": {
+            "A": "Expanded Disability Status Scale",
+            "B": "Hoehn and Yahr",
+            "C": "Fugl-Meyer",
+            "D": "Modified Ashworth Scale"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        }
+      ]
+    },
+
+    {
+      "id": 144146,
+      "title": "Vignette for questions 144-146",
+      "vignette": "A 66-year-old patient suffered a cerebrovascular accident 3 days ago as a result of an ischemic blockage to their left middle cerebral artery. After a full examination in the emergency, the patient was transferred to the neurological ward of the hospital. The patient had been too fatigued to actively participate in physiotherapy until today. The patient demonstrates mild weakness and has some communication difficulties.",
+      "questions": [
+        {
+          "id": 144,
+          "text": "Which of the following deficits would most likely be present based on the patient's diagnosis?",
+          "options": {
+            "A": "Aphasia and right upper extremity equally affected as right lower extremity",
+            "B": "Neglect and right upper extremity more affected than right lower extremity",
+            "C": "Aphasia and right lower extremity more affected than right upper extremity",
+            "D": "Difficulty with ADLs and right upper extremity more affected than right lower extremity"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 145,
+          "text": "Which of the following methods of education and instruction is most effective when communicating with this patient?",
+          "options": {
+            "A": "Ask the patient open-ended questions and avoid gestures and tactile cues.",
+            "B": "Control the environment and limit distractions when educating the patient.",
+            "C": "Limit information provided until the patient has recovered from the acute stages of the stroke.",
+            "D": "Speak to the patient in a slow, higher toned voice to establish effective communication."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 146,
+          "text": "During the physiotherapy session, the patient becomes agitated and begins to thrash in bed and yell out. What should be the physiotherapists next action?",
+          "options": {
+            "A": "Stay calm, reassure the patient, and carry out the session as planned.",
+            "B": "Press the call button to get immediate nursing assistance.",
+            "C": "Stop the clinical interaction and give the patient a moment.",
+            "D": "Leave the room and advise the team of the patient's agitation."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 147150,
+      "title": "Vignette for questions 147-150",
+      "vignette": "A physiotherapist is assessing a 41-year-old patient who injured their back 3 days ago after picking up several heavy boxes while cleaning their garage. The patient presents with low back pain, right foot drop and radicular pain into the right leg. Upon assessment, lumbar extension causes mild low back pain and lumbar flexion increases the patient's back and leg pain. Myotomes and dermatomes are positive.",
+      "questions": [
+        {
+          "id": 147,
+          "text": "Where will the physiotherapist note abnormal sensation when assessing the patient's dermatomes?",
+          "options": {
+            "A": "Anterolateral leg and dorsum of the foot",
+            "B": "Anterior thigh and medial aspect of the knee",
+            "C": "Lateral malleolus and posterior thigh",
+            "D": "Medial leg and medial malleolus"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 148,
+          "text": "Which of the following would not be an appropriate treatment goal for this patient?",
+          "options": {
+            "A": "Lift a 10kg box to shoulder height with a pain rating of 2 or less on the visual analogue scale within 4 months.",
+            "B": "Decrease pain on the visual analogue scale by 2 points within 2 weeks.",
+            "C": "Improve their quality of sleep within 2 months of treatment.",
+            "D": "Increase their right tibialis anterior to a grade 4 strength within 3 months."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 149,
+          "text": "The physiotherapist decides to incorporate transcutaneous electrical nerve stimulation (TENS) into the program for pain management. In which of the following situations would a physiotherapist be safe to proceed with the use of TENS?",
+          "options": {
+            "A": "Over metal implants",
+            "B": "Areas of impaired sensation",
+            "C": "Over areas of damaged or at-risk skin",
+            "D": "To the low back or abdomen of a pregnant woman in their first trimester"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 150,
+          "text": "What should the physiotherapist include as part of the patient's home exercise program?",
+          "options": {
+            "A": "Gentle supine knees to chest and reclined spinal twist",
+            "B": "Bridge and prone lying",
+            "C": "Prone lying and education to avoid prolonged sitting",
+            "D": "Education to avoid valsalva maneuver and reclined spinal twist"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 151154,
+      "title": "Vignette for questions 151-154",
+      "vignette": "A 65-year-old patient is referred to physiotherapy by her family physician for treatment of benign paroxysmal positional vertigo (BPPV) after reporting that she has been experiencing \"dizzy spells\". The patient lives alone without any support. The onset of these new symptoms has caused anxiety as the patient feels unable to cope during these spells. The patient's past medical history includes cervical spine stenosis, type 1 diabetes mellitus and mild osteoarthritis in her hands and knees bilaterally.",
+      "questions": [
+        {
+          "id": 151,
+          "text": "The physiotherapist asks the patient to describe their dizzy spells. Which of the following responses would help to support a diagnosis of BPPV?",
+          "options": {
+            "A": "They feel light-headed and nauseous.",
+            "B": "The room feels like it is spinning.",
+            "C": "Their vision is blurred and it is difficult to see.",
+            "D": "They feel off-balanced and unsteady."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 152,
+          "text": "The physiotherapist would like to perform the dix-hallpike and clears contraindications prior to performing the maneuver. Which of the following is a contraindication to performing the dix-hallpike maneuver?",
+          "options": {
+            "A": "Cervical spine stenosis",
+            "B": "The presence of any one of the 5 D's",
+            "C": "Previous cervical spine surgery",
+            "D": "Headache"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 153,
+          "text": "The physiotherapist performs the dix-hallpike maneuver and observes vertical beating nystagmus with torsion. Based on these findings, which of the following physiotherapy related diagnoses should the physiotherapist make?",
+          "options": {
+            "A": "BPPV affecting the horizontal canal",
+            "B": "BPPV affecting the anterior or posterior canal",
+            "C": "Vestibular disorder of central origin",
+            "D": "Bilateral vestibular loss"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 154,
+          "text": "The physiotherapist receives a friend request on their personal Facebook account from someone whose name sounds familiar. The physiotherapist accepts the request. After looking through their posts, the physiotherapist realizes that it belongs to this patient. The patient sends a Facebook message commenting on vacation pictures and how much fun it looked. How should the physiotherapist proceed?",
+          "options": {
+            "A": "Create two separate accounts - one for their professional life and a separate one for their personal contacts.",
+            "B": "The professional boundary is now unclear and the physiotherapist should discharge the patient from their caseload.",
+            "C": "Aim to re-establish professional boundaries and remove the patient from their social media.",
+            "D": "As long as the patient does not ask physiotherapy related questions, it is OK to engage in small talk online."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 155160,
+      "title": "Vignette for questions 155-160",
+      "vignette": "A 16-year-old patient, who was diagnosed with cystic fibrosis at the age of 2, was admitted to the hospital yesterday. Despite his refusal, his parents brought him to the emergency due to a 3-week history of worsening productive cough, dyspnea, hemoptysis, fever, extreme fatigue and weight loss. He was diagnosed with pneumonia by the emergency room physicians and, given his level of sickness, admitted to the critical care unit (CCU). The patient is currently in grade 10 and is considered to have severe disability. He is waiting for a double lung transplant.",
+      "questions": [
+        {
+          "id": 155,
+          "text": "Which of the following is consistent with the clinical presentation of cystic fibrosis and its course?",
+          "options": {
+            "A": "Early puberty and skeletal maturity.",
+            "B": "Finger clubbing is rare, occurring in a small percentage of patients.",
+            "C": "Breathlessness occurs in the later stages as airflow limitation develops.",
+            "D": "Liver disease is often the presenting feature."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 156,
+          "text": "Which of the following x-ray findings would be most consistent with cystic fibrosis?",
+          "options": {
+            "A": "Horizontal ribs, flattening of hemidiaphragms, increased interstitial markings and small cardiothoracic index",
+            "B": "Rounding of hemidiaphragms, increased interstitial markings and small cardiothoracic index",
+            "C": "Rounding of hemidiaphragms, decreased interstitial markings and large cardiothoracic index",
+            "D": "Horizontal ribs, flattening of hemidiaphragms, decreased interstitial markings and large cardiothoracic index"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 157,
+          "text": "When the physiotherapist arrives to treat the patient, they are very drowsy and not alert. The physiotherapist decides on a passive secretion clearance technique of postural drainage. They want to start by draining the posterior segment of the left upper lobe. Which position should the physiotherapist place the patient in?",
+          "options": {
+            "A": "Patient is positioned supine with the head of bed elevated to 30 degrees.",
+            "B": "Patient is positioned supine with the head of bed elevated to 60 degrees.",
+            "C": "Patient is positioned in right sidelying and turned 45 degrees forwards with a pillow under their body and the head of the bed elevated 30 degrees.",
+            "D": "Patient is positioned supine with the head of bed 30 degrees lower than the hips."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 158,
+          "text": "Once the patient is in the postural drainage position to drain the posterior segment of the left upper lobe, which area should the physiotherapist percuss?",
+          "options": {
+            "A": "Over the upper back on the left side.",
+            "B": "Between the clavicle and the nipple on the left side.",
+            "C": "Over the left nipple area.",
+            "D": "Over the mid-back just below the scapula on the left side."
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 159,
+          "text": "After 2 days in the CCU, the patient has started to feel better and is alert and oriented. The patient's parents are present in the room when the physiotherapist arrives. Which of the following secretion removal techniques would be most appropriate for this patient?",
+          "options": {
+            "A": "Continue with postural drainage and percussion/vibration.",
+            "B": "Teach huff cough.",
+            "C": "Ask the patient what their preferred method of secretion removal is.",
+            "D": "Teach active cycle of breathing."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 160,
+          "text": "During a physiotherapy session, the patient states that they are worried about the disease progression and not getting a lung transplant in time. How should the physiotherapist respond?",
+          "options": {
+            "A": "\"I think this is something you should discuss with your cardiothoracic surgeon.\"",
+            "B": "\"I understand this can be a scary time for you but you just have to stay positive.\"",
+            "C": "\"Don't worry, it will all work out.\"",
+            "D": "\"I think it might be good to talk to someone about your fears. Would you be open to talking to a counselor?\""
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 161165,
+      "title": "Vignette for questions 161-165",
+      "vignette": "A physiotherapist is working in the orthopedic ward of the local hospital. A 70-year-old patient underwent a left total hip replacement (THR) yesterday and has been given orders for non weight-bearing. Prior to surgery, the patient ambulated independently with a cane. They have a past medical history that includes mild dementia, bilateral cataracts, and a right total hip replacement 4 years ago.",
+      "questions": [
+        {
+          "id": 161,
+          "text": "Which of the following gait aids should the physiotherapist use when mobilizing the patient for the first time postoperatively?",
+          "options": {
+            "A": "Standard walker",
+            "B": "Bilateral axillary crutches",
+            "C": "Bilateral canes",
+            "D": "2 wheeled walker"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 162,
+          "text": "Which of the following ambulation patterns should the physiotherapist prescribe to the patient?",
+          "options": {
+            "A": "2-point gait pattern",
+            "B": "3-point gait pattern",
+            "C": "Modified 3-point gait pattern",
+            "D": "4-point gait pattern"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 163,
+          "text": "Which of the following gait patterns most resembles a normal gait pattern?",
+          "options": {
+            "A": "4-point gait pattern",
+            "B": "Modified 2-point gait pattern",
+            "C": "3-point gait pattern",
+            "D": "3-point step through gait pattern"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 164,
+          "text": "During gait practice, the patient experiences extreme dizziness, looses their footing and falls to the ground. The physiotherapist calls for nursing and the patient is safely brought back to their bed. How should the physiotherapist proceed after this incident?",
+          "options": {
+            "A": "Talk with the patient's relatives about the incident to ensure they can properly set up their home for discharge.",
+            "B": "Express to the patient that it was the physiotherapists negligence that led to the fall.",
+            "C": "Document the incident in the patient's chart.",
+            "D": "Notify the team of the incident and file an incident report."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 165,
+          "text": "The patient did not suffer any injuries during the fall and has been cleared to proceed with physiotherapy. When the physiotherapist enters the room the day after the fall, the patient appears confused and are disoriented. How should the physiotherapist proceed?",
+          "options": {
+            "A": "Assume implied consent and proceed with physiotherapy treatment as its in the patients best interest.",
+            "B": "Leave the room and advise nursing about the recent change in the patient's cognitive status.",
+            "C": "Try to gain consent from the patient to proceed with physiotherapy treatment.",
+            "D": "Determine who the patient's substitute decision-maker is."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 166169,
+      "title": "Vignette for questions 166-169",
+      "vignette": "A patient has been referred to physiotherapy from her family physician for neck and arm discomfort. She is a 35-year-old office worker with a body mass index of 23. The physiotherapist notes that the patient sits with forward head posture and rounded shoulders. The patient reports neck stiffness as well as tingling and numbness into the 4th and 5th fingers of her right dominant hand. There is tenderness upon palpation over the patient's scalene muscles. The physiotherapist suspects thoracic outlet syndrome.",
+      "questions": [
+        {
+          "id": 166,
+          "text": "Which of the following is the most probable cause of the patient's symptoms?",
+          "options": {
+            "A": "Obesity",
+            "B": "Poor posture",
+            "C": "Occupation",
+            "D": "Repetitive arm use"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 167,
+          "text": "Based on the patient's presentation, what is the most likely differential diagnosis?",
+          "options": {
+            "A": "Carpal tunnel syndrome",
+            "B": "Cervical radiculopathy",
+            "C": "Raynaud's disease",
+            "D": "Peripheral neuropathy"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 168,
+          "text": "Which of the following special tests should the physiotherapist perform to confirm their suspected diagnosis?",
+          "options": {
+            "A": "Spurling's compression test",
+            "B": "Phalen's test",
+            "C": "Adson test",
+            "D": "Adson and spurling's compression test"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 169,
+          "text": "After a thorough evaluation, the physiotherapist diagnosed the patient with thoracic outlet syndrome. What is the best plan for treatment?",
+          "options": {
+            "A": "Regain normal muscle length through scalene and pectoralis stretches.",
+            "B": "Improve endurance of postural muscles.",
+            "C": "Educate the patient on proper posture in various positions such as work, driving and sleeping.",
+            "D": "Prescribe nerve flossing at least 3x per day."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 170172,
+      "title": "Vignette for questions 170-172",
+      "vignette": "A physiotherapist is working in a chronic pain outpatient clinic affiliated with the local hospital. The pain clinic requires a physician's referral and is covered by healthcare. A 45-year-old patient arrives for their initial assessment. The patient was diagnosed with fibromyalgia and depression 5 years ago. She works part-time at an insurance sales office to cover her rent. The patient lives alone in a basement suite. Most of their time outside of work is spent alone and does not engage within the community.",
+      "questions": [
+        {
+          "id": 170,
+          "text": "Based on the information presented, which of the following is a relevant social determinant of health?",
+          "options": {
+            "A": "Chronic pain",
+            "B": "Access to healthcare services",
+            "C": "Lack of community engagement",
+            "D": "Housing"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 171,
+          "text": "Which of the following is the most appropriate outcome measure to evaluate the emotional impact of their chronic disease?",
+          "options": {
+            "A": "EuroQol 5 dimension scale (EQ-5D)",
+            "B": "Numeric pain rating scale (NPRS)",
+            "C": "Functional independence measure (FIM)",
+            "D": "Oswestry disability index (ODI)"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 172,
+          "text": "When creating a therapeutic exercise intervention for the patient, which of the following would be the physiotherapist's immediate focus?",
+          "options": {
+            "A": "Muscle strengthening",
+            "B": "Relaxation techniques and muscle stretching",
+            "C": "Cardiovascular endurance",
+            "D": "Pain management"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 173176,
+      "title": "Vignette for questions 173-176",
+      "vignette": "A physiotherapist works in the intensive care unit (ICU) of a hospital. They are treating a 68-year-old woman with acute respiratory distress syndrome. The patient was initially admitted to the hospital 5 days ago with respiratory related issues and was later admitted to the ICU after declining while on the ward. The patient is severely ill and has a low level of consciousness. She is intubated and on ventilator assistance. The physiotherapist has been performing passive range of motion exercises and assisting nursing with prone positioning.",
+      "questions": [
+        {
+          "id": 173,
+          "text": "Which of the following is a functional consequence of prolonged immobility?",
+          "options": {
+            "A": "Slowed digestive function",
+            "B": "Increased bone density",
+            "C": "Decreased resting heart rate",
+            "D": "Increased tidal volume"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 174,
+          "text": "Why does the medical team place the patient in prone?",
+          "options": {
+            "A": "Prevent pressure sores",
+            "B": "Prevent deep vein thrombosis",
+            "C": "Increase V/Q matching",
+            "D": "Improve patient comfort and well-being"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 175,
+          "text": "While performing passive range of motion exercises, the patient's husband enters the room and asks if they would be able to perform these exercises while visiting their wife to enhance her recovery. How should the physiotherapist proceed?",
+          "options": {
+            "A": "Teach a select number of PROM exercises to the husband.",
+            "B": "Tell them that they are more than welcome to perform these exercises to help their wife's recovery.",
+            "C": "Advise them that they cannot perform PROM exercises as they are untrained and could injure their wife.",
+            "D": "Let the husband know that a physiotherapy assistant will be trained to perform these exercises and can help them learn."
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 176,
+          "text": "After 2 weeks in ICU, the patient is slowly recovering. They are now more alert but significantly deconditioned. The patient is a 2 person moderate assist from supine to sitting at the edge of the bed. They require 1 moderate assist in sitting. Which of the following transfer techniques should the physiotherapist use to mobilize this patient into their wheelchair?",
+          "options": {
+            "A": "Mechanical ceiling lift",
+            "B": "Mechanical sit-to-stand lift",
+            "C": "Slide board transfer",
+            "D": "Low pivot transfer"
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 177180,
+      "title": "Vignette for questions 177-180",
+      "vignette": "A 46-year-old woman was recently diagnosed with amyotrophic lateral sclerosis (ALS) by her family physician. The patient was referred to a private neurological clinic for early intervention and management of the disease. The patient is still working as an elementary teacher but plans to give her notice within the next 3 months. The patient is currently ambulating independently without a gait aid but has noticed changes in her walking and balance.",
+      "questions": [
+        {
+          "id": 177,
+          "text": "Based on this patient's diagnosis, which of the following is most likely contributing to the changes in the patient's ambulation?",
+          "options": {
+            "A": "Hip flexor weakness",
+            "B": "Hip abductor weakness",
+            "C": "Knee extensor weakness",
+            "D": "Ankle dorsiflexor weakness"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 178,
+          "text": "During a physiotherapy session, The patient states that their friend was recently diagnosed with multiple sclerosis (MS). She asks the physiotherapist if MS is similar to ALS. Which of the following disease facts could the physiotherapist include in their response?",
+          "options": {
+            "A": "ALS and MS both affect upper and lower motor neurons.",
+            "B": "The age of onset for both of these pathologies is around 20-40 years of age.",
+            "C": "Weakness starts peripherally and moves centrally in both diseases.",
+            "D": "Muscle spasticity and hyperreflexia are common in both MS and ALS."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 179,
+          "text": "Which of the following should the physiotherapist incorporate into this patient's treatment program? i. Passive range of motion exercises ii. Diaphragmatic breathing iii. Light to moderate resistance exercises iv. Equipment referrals V. Energy conservation techniques",
+          "options": {
+            "A": "iii, iv, v",
+            "B": "i, ii, iv, v",
+            "C": "ii, iii, iv, v",
+            "D": "i, ii, iii, iv"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 180,
+          "text": "After several months of treatment, there has been a significant progression of the disease. During a physiotherapy session, the patient states they are contemplating medical assistance in dying. They do not want to progress further and are ready to take action. How should the physiotherapist proceed?",
+          "options": {
+            "A": "As the patient a few probing questions to determine the likelihood of them taking action.",
+            "B": "Respect the patient's decision.",
+            "C": "Advise the patient to speak to a counselor.",
+            "D": "Call the police."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 181190,
+      "title": "Stand alone questions 181-190",
+      "vignette": "",
+      "questions": [
+        {
+          "id": 181,
+          "text": "A physiotherapist is treating a 66-year-old patient with hip stiffness and pain. The patient is acute and irritable. The physiotherapist would like to perform a mobilization to increase hip flexion. Which of the following treatments should the physiotherapist perform?",
+          "options": {
+            "A": "Rest and ice as the patient is acute and irritable.",
+            "B": "Oscillation or grade 1 posterior glide with hip in 30 degrees of flexion, 30 degrees of abduction and slight external rotation.",
+            "C": "Oscillation or grade 1 anterior glide with hip in 30 degrees of flexion, 30 degrees of abduction and slight external rotation.",
+            "D": "Oscillation or grade 1 posterior glide with hip in 10 degrees of flexion, 10 degrees of abduction and neutral rotation."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 182,
+          "text": "A physiotherapist works in the cardiac ward of the hospital. A new physiotherapy assistant (PTA) has started on the ward and the physiotherapist will be working with them for the first time. Which of the following would have the greatest impact on how the PTA is utilized?",
+          "options": {
+            "A": "The established productivity standards for physiotherapy assistants.",
+            "B": "The patient population and current hospital protocols.",
+            "C": "The length of formal academic training of the physiotherapy assistant.",
+            "D": "The judgment of the supervising physiotherapist."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 183,
+          "text": "A 45-year-old patient is receiving physiotherapy treatment at an outpatient orthopedic clinic after receiving a total knee replacement (TKR) 2 weeks ago. The patient's past medical history includes type 2 diabetes mellitus and human immunodeficiency virus (HIV). The patient has had issues with wound healing as a result of their comorbidities. While the patient is working in the gym, the physiotherapist notices that their wound is weeping. What infection control precautions should be taken to clean the equipment?",
+          "options": {
+            "A": "Instruct the patient on how to clean and disinfect the equipment after use.",
+            "B": "Clean and disinfect the entire gym while wearing gloves and a gown.",
+            "C": "Clean and disinfect any equipment that the patient used.",
+            "D": "Clean and re-bandage the wound"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 184,
+          "text": "A physiotherapist is treating a 24-year-old patient who injured their right hip while playing rugby. During the assessment, the physiotherapist performs resisted isometric testing for the right gluteus maximus. Testing reveals that the muscle is weak and painful. Which of the following best describes the possible pathology?",
+          "options": {
+            "A": "There is no lesion or neurological deficit involving the gluteus maximus and tendon.",
+            "B": "There is a minor (grade 1) lesion of the gluteus maximus or tendon.",
+            "C": "There is a nervous system disorder, disuse atrophy, or a complete rupture of the gluteus maximus or tendon.",
+            "D": "There is a serious, painful pathology such as a fracture or neoplasm. Other possibilities include an acute inflammatory process that inhibits muscle contraction or a moderate (grade 2) strain of the gluteus maximus or tendon."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 185,
+          "text": "A physiotherapist is examining a patient with a spinal cord injury. The patient's neurological level of lesion was classified as C7. The physiotherapist notes that the patient has asymmetrical symptoms below the level of the lesion. The patient has ipsilateral loss of motor function and contralateral loss of pain and temperature sensation. Which of the following conditions is most likely present?",
+          "options": {
+            "A": "Anterior cord syndrome",
+            "B": "Brown-sequard syndrome",
+            "C": "Cauda equina syndrome",
+            "D": "Central cord syndrome"
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 186,
+          "text": "A physiotherapist is approached in the elevator by a nurse who works in the same unit. The nurse states that the physiotherapist is working with a patient that they've treated in the past. The nurse asks about their condition and laboratory test results. How should the physiotherapist respond?",
+          "options": {
+            "A": "Answer the nurse's questions softly to prevent others from overhearing.",
+            "B": "Wait until you are both back in the unit to discuss.",
+            "C": "Refer the nurse to the client's primary health care provider for more information.",
+            "D": "Refuse to discuss this information with the nurse."
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 187,
+          "text": "A 72-year-old patient arrives to physiotherapy for treatment of persistent back pain. The patient denies any mechanism of injury and states the pain started gradually. The pain is constant, throbbing and located towards the middle of the their back. Pain is not relieved by rest in supine and they occasionally note pain in and around their abdomen. The patient has a history of hypertension. After a physical examination, the physiotherapist treats the patients pain using TENS, manual therapy and prescribed spinal stretching exercises for home. Upon follow-up the patient's pain is worse and they report dizziness, nausea and vomiting. The physiotherapist is concerned that they misdiagnosed the patient with mechanical back pain and there is something sinister at hand. How should the physiotherapist proceed?",
+          "options": {
+            "A": "Reassess the patient.",
+            "B": "Inform the patient that they were misdiagnosed and the treatment provided was ineffective.",
+            "C": "Acknowledge that there may be something that requires urgent medical attention.",
+            "D": "Advise the patient that physiotherapy services are not warranted and to follow-up with their family physician."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 188,
+          "text": "A 8-month-old baby boy was referred to physiotherapy by their pediatrician due to delays noted in his gross motor development. The baby is unable to sit independently, can only roll prone to supine and is not yet grasping objects independently. During the initial assessment. the physiotherapist can still elicit the asymmetrical tonic neck reflex which should disappear by approximately 6 months of age. Which of the following stimulus and response demonstrates this reflex?",
+          "options": {
+            "A": "The stimulus is the head position turned to one side and the response is the arm and leg on the face side extend while the arm and leg on the scalp side flex.",
+            "B": "The stimulus is the head position turned to one side and the response is the arm and leg on the face side flex while the arm and leg on the scalp side extend",
+            "C": "The stimulus is the head positioned into either flexion or extension. The response when the head is flexed, is arm flexion and leg extension. The response when the head is extended, is arm extension and leg flexion.",
+            "D": "The stimulus is the head positioned into either flexion or extension. The response when the head is flexed, is arm extension and leg flexion. The response when the head is flexed, is arm flexion and leg extension."
+          },
+          "correctAnswer": "A",
+          "explanation": ""
+        },
+        {
+          "id": 189,
+          "text": "A physiotherapist is working with a 13-year-old who suffered a quadriceps contusion while playing soccer. The patient also suffers from exercise induced asthma. The patient states they have never been taught how to properly manage their asthma while playing soccer. Which of the following should the physiotherapist include when educating their patient on how to manage their exercise induced asthma?",
+          "options": {
+            "A": "Avoid participating in sports that trigger an asthma attack.",
+            "B": "Avoid training in dry/cold air and, if unavoidable, wear a face mask or scarf when exercising in cold, dry weather.",
+            "C": "Take their asthma inhaler before game play to decrease the likelihood of an attack.",
+            "D": "Teach the patient to perform relaxed diaphragmatic breathing during asthma attacks to help decrease dyspnea."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 190,
+          "text": "A physiotherapist works at a private orthopedic clinic and uses joint mobilizations frequently in their practice. They are working with a 19-year-old patient who is 12 weeks post-grade 2 anterior talofibular (ATFL) ligament injury. The patient is working towards returning to sport but has ongoing limitations in their ankle dorsiflexion range. The physiotherapist performs a posterior glide of the talus for the first time. Which of the following grades would be most appropriate for the physiotherapist to use?",
+          "options": {
+            "A": "Grade I to avoid adding too much strain onto the healing ligament",
+            "B": "Grade II",
+            "C": "Grade III",
+            "D": "Grade IV"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "id": 191200,
+      "title": "Stand alone questions 191-200",
+      "vignette": "",
+      "questions": [
+        {
+          "id": 191,
+          "text": "A physiotherapist, who works in the community, arrives to a patient's home for an initial assessment. The patient comments that they looked up the physiotherapist's credentials online and saw that they have completed their Doctorate in Physiotherapy. They start to refer to the physiotherapist as 'doctor'. How should the physiotherapist respond?",
+          "options": {
+            "A": "Clarify that they do not have a medical degree but they are welcome to call them doctor.",
+            "B": "Stay nothing. It is the patient's choice to call them by their preferred name or doctor.",
+            "C": "Request that the patient call them by their first name.",
+            "D": "Advise the patient that they should not call them 'doctor' as their professional title is 'physiotherapist.'"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 192,
+          "text": "A 23-year-old patient sustained a pneumothorax after being stabbed in an altercation. The patient was admitted to emergency and had a chest tube inserted on the right side. While treating the patient, which of the following will be most important for the physiotherapist to consider?",
+          "options": {
+            "A": "Report to nursing before disconnecting the chest tube for mobilizing.",
+            "B": "Keep the chest tube below the level of insertion into the chest.",
+            "C": "Encourage the patient to take rapid, shallow breaths.",
+            "D": "Teach the patient to always get out of bed towards the left."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 193,
+          "text": "Patient-centered care (PCC) is important in order to build a therapeutic alliance to help the patient meet their goals. Which of the following is fundamental when utilizing the patient-centered care model?",
+          "options": {
+            "A": "Ensuring the patient's needs, values and guidelines align with the therapist.",
+            "B": "Looking at the person with a biological approach.",
+            "C": "Renouncing control and sharing power with the patient.",
+            "D": "Maintaining an exclusively objective stance."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 194,
+          "text": "A physiotherapist working in a private orthopedic clinic is assessing a 49-year-old patient with a history of back and leg pain. During the lumbar spine scan, the physiotherapist asks the patient questions to rule out cauda equina syndrome. Which of the following questions should the physiotherapist include in the subjective history?",
+          "options": {
+            "A": "Do you have constant back pain?",
+            "B": "Do you have muscle weakness?",
+            "C": "Do you have difficulty with urination?",
+            "D": "Did you recently have a violent trauma or fall from a tall height?"
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 195,
+          "text": "A physiotherapist is working with a 22-year-old patient who suffered a cerebellar stroke 12 weeks ago. They have made excellent gains during their rehabilitation at a private neurological clinic. They are independently ambulating without a gait aid. While re-assessing their standing balance, the patient can now safely balance in a static tandem stance but fails when asked to reach outside of their base of support in this position. Which of the following balance exercises should the physiotherapist prescribe for unsupervised standing balance practice at home?",
+          "options": {
+            "A": "Reaching for a shoe in tandem stance.",
+            "B": "Rotating head side to side in tandem stance.",
+            "C": "Standing practice with feet together.",
+            "D": "Teach a family member to stand in front of the patient and gently push them side to side while they are standing in tandem stance."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 196,
+          "text": "A patient is being discharged home after an acute exacerbation of their chronic obstructive pulmonary disease. They are being discharged with a portable oxygen delivery system to use while exercising. The physiotherapist is reviewing the patient's home exercise program, which includes a walking program, graded exercises, and hourly pursed lip breathing. The patient currently smokes 2 packs of cigarettes a day and lives alone in a townhome with 2 steps to enter. Which of the following education topics is the most important for this patient?",
+          "options": {
+            "A": "How to correctly use inhalers during an acute exacerbation.",
+            "B": "Prohibition of smoking in the same room as the oxygen tank.",
+            "C": "Relaxation techniques to help control breathing rate.",
+            "D": "Maintenance of adequate hydration and nutrition while exercising."
+          },
+          "correctAnswer": "B",
+          "explanation": ""
+        },
+        {
+          "id": 197,
+          "text": "A physiotherapist is treating a 44-year-old patient with a C6 cervical disc herniation and radiculopathy. The physiotherapist has decided to include traction into their treatment program. Which of the following is the most appropriate force to produce vertebral separation of the cervical vertebrae?",
+          "options": {
+            "A": "1% of the patient's body weight",
+            "B": "3% of the patient's body weight",
+            "C": "5% of the patient's body weight",
+            "D": "10% of the patient's body weight"
+          },
+          "correctAnswer": "D",
+          "explanation": ""
+        },
+        {
+          "id": 198,
+          "text": "A physiotherapist is working in a private practice musculoskeletal clinic. They have a large caseload and will be leaving for a 3-week holiday. They want to prioritize their patients care while they are away. There is a physiotherapy assistant (PTA) on staff who can work with a few of the patients, and the physiotherapist has a colleague who agreed to see some of their patients. Which of the following is an effective strategy for the physiotherapist to use when prioritizing care for their patients?",
+          "options": {
+            "A": "Determine which clients consent to work with a PTA and have those patients work with the PTA.",
+            "B": "Discuss the caseload with their colleague to see which patients they feel most comfortable working with and then gain consent from those patients to work with their colleague.",
+            "C": "Create a home exercise program and provide resources for community programs for the patients who can manage independently and are not at a high risk of decline while the physiotherapist is away.",
+            "D": "Determine which patients are at higher risk of deteriorating without direct physiotherapy care and refer them to another physiotherapy clinic."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 199,
+          "text": "A physiotherapist works in the acute neurological ward of the hospital and is supervising a physiotherapy student who is on placement. The physiotherapist is teaching the student how to perform an ASIA examination. When examining a patient with a spinal cord injury, which of the following is the most appropriate method for determining the neurological level of injury?",
+          "options": {
+            "A": "The most distal spinal segment with normal motor function bilaterally.",
+            "B": "The most proximal spinal segment with normal sensory function bilaterally.",
+            "C": "The most caudal level of the spinal cord with normal motor and sensory function bilaterally.",
+            "D": "The most cranial level of the spinal cord with normal motor and sensory function bilaterally."
+          },
+          "correctAnswer": "C",
+          "explanation": ""
+        },
+        {
+          "id": 200,
+          "text": "A physiotherapist has just completed the subjective history portion of the initial assessment to gain information about a shoulder injury that occurred as a result of domestic violence. During the subjective history they revealed that in previous medical situations, the practitioner made them feel as though they made up these injuries for attention. At this time, the physiotherapist would like to obtain consent to start the objective assessment. Which communication strategy would be the most appropriate to use with this patient?",
+          "options": {
+            "A": "Reiterating",
+            "B": "Assuming",
+            "C": "Paraphrasing",
+            "D": "Validating"
+          },
+          "correctAnswer": "D",
           "explanation": ""
         }
       ]
