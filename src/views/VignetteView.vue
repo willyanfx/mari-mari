@@ -4,11 +4,12 @@
    <div v-if="!showResults && currentQuestion" class="question">
      <h2>Question {{ currentQuestionIndex + 1 }}</h2>
      <p>{{ currentQuestion.text }}</p>
-     <ol>
+     <ol class="options">
        <li v-for="(option, letter) in currentQuestion.options" :key="letter">
          <button
            @click="submitAnswer(letter)"
            :class="{ selected: userAnswers[currentQuestionIndex] === letter }"
+           class="no-button-style  choice-button"
          >
            {{ letter }}. {{ option }}
          </button>
@@ -23,6 +24,8 @@
        <p>{{ question.text }}</p>
        <p :class="{ 'right': question.correctAnswer === userAnswers[index]}" >Your answer: Option {{ userAnswers[index] }} - {{ getAnswerText(question, userAnswers[index]) }}</p>
        <p v-if="question.correctAnswer !== userAnswers[index]" :class="{ 'wrong': question.correctAnswer !== userAnswers[index]}">Correct answer: <strong>Option {{ question.correctAnswer }}</strong> - {{ getAnswerText(question, question.correctAnswer) }}</p>
+       <p v-html='question.explanation' class="explanation">
+       </p>
      </div>
 
      <nav  class="back-to-vignettes">
@@ -83,6 +86,85 @@ const score = computed(() => {
    display: flex;
    align-items: center;
  }
+}
+
+.no-button-style {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    outline: none;
+    appearance: none;
+    -webkit-appearance: none;
+}
+
+.options{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+ol.options > li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+.choice-button {
+  -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    --rem: 16;
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+    color-scheme: light;
+    font-synthesis-weight: none;
+
+    --radius: 0.5rem;
+    box-sizing: border-box;
+    border: 0 solid #e5e7eb;
+    border-color: hsl(var(--border));
+    font-family: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    margin: 0;
+    background-image: none;
+    cursor: pointer;
+    display: inline-flex;
+    /* height: 2.5rem; */
+    align-items: center;
+    justify-content: center;
+    gap: .5rem;
+    white-space: wrap;
+    border-radius: calc(var(--radius) - 2px);
+    background-color: hsl(var(--secondary));
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    font-weight: 500;
+    color: hsl(var(--secondary-foreground));
+    transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .15s;
+}
+
+.explanation{
+  --radius: 0.5rem;
+  background: #f4f4f4;
+  padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+  border-radius: calc(var(--radius) - 2px);
+  font-size: .875rem;
+  margin-bottom: 16px;
 }
 
 .right {
