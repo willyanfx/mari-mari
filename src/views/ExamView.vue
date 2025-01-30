@@ -1,19 +1,25 @@
 <script setup lang="ts">
+import { exams } from '@/data/exams'
+import { test1 } from '@/data/vignettes_1'
+import { test3 } from '@/data/vignettes_3'
 import { ref, onMounted, computed } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
-import examsData from '../data/exams.json'
-import vignettesData from '../data/vignettes.json'
+
+
 
 const router = useRouter()
 const route = useRoute()
 const examId = Number(route.params.examId)
 
-const currentExam = computed(() => examsData.exams.find(exam => exam.id === examId))
+
 
 const vignettes = computed(() => {
-  if(!currentExam.value) return [];
+  const value =  examId === 1 ? test1 : test3;
 
-  return vignettesData.vignettes.filter(vignette => currentExam.value.vignettes.includes(vignette.id))
+
+  return value
+
+  // return vignettesData.vignettes.filter(vignette => currentExam.value.vignettes.includes(vignette.id))
 })
 
 

@@ -39,14 +39,17 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 import { useRoute, RouterLink } from 'vue-router'
-import vignettesData from '../data/vignettes.json'
+import { test3 } from '@/data/vignettes_3'
+import { test1 } from '@/data/vignettes_1'
 
 const route = useRoute()
 const examId = Number(route.params.examId)
 const vignetteId = Number(route.params.vignetteId)
 
+const vignettes = examId === 1 ? test1 : test3;
+
 const vignette = computed(() =>
- vignettesData.vignettes.find(v => v.id === vignetteId)
+ vignettes.find(v => v.id === vignetteId)
 )
 
 const currentQuestionIndex = ref(0)
